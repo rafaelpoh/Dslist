@@ -1,4 +1,4 @@
-Projeto desenvolvido em um intensivo voltado para java springboot back end, com uso de banco de dados SQL, API padrão rest, JSON, seguindo uma arquitetura de camadas onde seguem uma sequência de filtros e comandos.
+Projeto desenvolvido em um intensivo voltado para java spring boot back end, com uso de banco de dados SQL, API padrão rest, JSON, seguindo uma arquitetura de camadas onde seguem uma sequência de filtros e comandos.
 
 ![image](https://github.com/user-attachments/assets/2367315a-a304-447f-af73-30b108c8ff7f)
 
